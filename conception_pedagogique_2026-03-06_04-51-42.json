@@ -1,0 +1,76 @@
+{
+  "version": "1.8",
+  "schemaVersion": 2,
+  "exportedAt": "2026-03-06T15:51:42.253Z",
+  "keyParams": {
+    "title": "",
+    "description": "",
+    "aims": "",
+    "outcomesText": "",
+    "toolsMaterials": "",
+    "toolsMaterialsItems": [],
+    "toolsMaterialsNotes": "",
+    "learningTimeUnit": "mins",
+    "designedTimeUnit": "mins",
+    "learningTimeVal": "",
+    "designedTimeVal": "0",
+    "durationToleranceRelPct": "5",
+    "name": "",
+    "authors": "",
+    "trainers": "",
+    "license": "",
+    "versionNumber": "",
+    "level": "unspecified",
+    "targetAudience": "",
+    "prerequisites": "",
+    "mode": "",
+    "cohortSize": "30",
+    "aimsItems": [],
+    "outcomesTextItems": [],
+    "nomExport": "",
+    "outcomes": [],
+    "competences": [],
+    "competencesTransversales": []
+  },
+  "activities": [
+    {
+      "id": "module_d4dd0971-da83-4dc8-b8b6-816931378d6c",
+      "ignored": false,
+      "title": "",
+      "moduleStartTime": "",
+      "targetTime": "",
+      "targetUnit": "60",
+      "moments": [
+        {
+          "id": "moment_fc4b4b55-b505-4083-8629-c6775e07cc87",
+          "ignored": false,
+          "title": "",
+          "targetTime": "",
+          "targetUnit": "60",
+          "steps": [
+            {
+              "id": "step_ec082a39-10e7-4419-989e-0e80911de998",
+              "ignored": false,
+              "title": "",
+              "type": "none",
+              "duration": "",
+              "unit": "60",
+              "status": "in_progress",
+              "groupMode": "class",
+              "groupSize": "30",
+              "trainer": "present",
+              "place": "situ",
+              "time": "sync",
+              "evaluation": "Aucune"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "i18n": {
+    "defaultLang": "fr",
+    "currentLang": "fr",
+    "packs": {}
+  }
+}
